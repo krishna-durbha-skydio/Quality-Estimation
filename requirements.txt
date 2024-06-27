@@ -1,0 +1,5 @@
+numpy==1.24.4
+opencv-python==4.9.0.80
+scikit-learn==1.0.2
+torch==1.13.1+cu116
+torchvision==0.14.1+cu116
